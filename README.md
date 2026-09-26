@@ -1,3 +1,5 @@
+<img width="751" height="957" alt="image" src="https://github.com/user-attachments/assets/476d2808-d6dc-4871-a4d4-a073f8a5b012" />
+
 # MiniTab
 
 **A lightning-fast, floating quick-search companion for Chrome.**
